@@ -82,6 +82,13 @@ end
 1.  Item three
 1.  Item four
 
+### And an ordered list (zero-origin):
+
+0.  Item one
+0.  Item two
+0.  Item three
+0.  Item four
+
 ### And a nested list:
 
 - level 1 item
