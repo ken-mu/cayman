@@ -46,7 +46,9 @@ end
 ##### Header 5
 
 1.  This is an ordered list following a header.
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 2.  This is an ordered list following a header.
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 3.  This is an ordered list following a header.
 
 ###### Header 6
