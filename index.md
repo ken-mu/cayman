@@ -67,7 +67,7 @@ test
 test
 
 {: start="3"}
-3.test3
+3. test3
 
 ###### Header 6
 
