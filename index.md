@@ -78,6 +78,35 @@ test
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
+<table>
+  <tr>
+    <th>head1</th>
+    <th>head two</th>
+    <th>three</th>
+  </tr>
+  <tr>
+    <td>ok</td>
+    <td>good swedish fish</td>
+    <td>nice</td>
+  </tr>
+  <tr>
+    <td>out of stock</td>
+    <td>goof and plenty</td>
+    <td>nice</td>
+  </tr>
+  <tr>
+    <td>ok</td>
+    <td>goof `oreos`</td>
+    <td>hmm</td>
+  </tr>
+  <tr>
+    <td>ok</td>
+    <td>goof `zoute` drop</td>
+    <td>yumm</td>
+  </tr>
+</table>
+  
+
 ### There's a horizontal rule below this.
 
 * * *
