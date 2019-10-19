@@ -96,12 +96,12 @@ test
   </tr>
   <tr>
     <td>ok</td>
-    <td>goof `oreos`</td>
+    <td>goof <code>oreos</code></td>
     <td>hmm</td>
   </tr>
   <tr>
     <td>ok</td>
-    <td>goof `zoute` drop</td>
+    <td>goof <code>zoute</code> drop</td>
     <td>yumm</td>
   </tr>
 </table>
